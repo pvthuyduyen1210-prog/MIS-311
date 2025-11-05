@@ -160,7 +160,7 @@ This insight is particularly valuable for policy makers, economists, and interna
 
 In essence, this chart tells a simple but powerful story: a higher paycheck does not guarantee a higher standard of living. Sustainable economic growth should therefore focus on enhancing real income, ensuring that people not only earn more but can truly afford a better life. 
 
-** Summary of Findings**
+**Summary of Findings**
 
 The analysis shows that while income generally rises with the cost of living, the balance between the two differs across regions. The weak correlation between income and living costs suggests that earning more does not always mean living better. True economic progress requires both sustainable income growth and effective control of living costs to improve real quality of life.
 
